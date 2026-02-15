@@ -1,0 +1,5 @@
+{
+  "name": "LinkScan AI",
+  "description": "A high-performance intelligence tool that analyzes any URL to provide IP addresses, server load data, tech stacks, and AI-driven security insights using Gemini Google Search grounding.",
+  "requestFramePermissions": []
+}
